@@ -1,0 +1,31 @@
+_repo: The-Sword-of-Damocles--A-Story-of-New-York-Life_33301
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33301-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: ''
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+title: 'The Sword of Damocles: A Story of New York Life'
+url: http://www.gutenberg.org/ebooks/33301
